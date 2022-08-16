@@ -17,7 +17,6 @@ setup(
     install_requires=[
         "Django >= 3.0",
         "qrcode >= 7.3",
-        "redis >= 4.3",
-        "Pillow >= 9.2"
+        "redis >= 4.3"
     ],
 )

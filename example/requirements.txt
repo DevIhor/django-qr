@@ -1,0 +1,5 @@
+Django==4.1
+djangorestframework==3.13.1
+djangorestframework-simplejwt==5.2.0
+qrcode==7.3
+redis==4.3
